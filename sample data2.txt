@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips mod 1","desc":"Garry's Mod is a popular sandbox game that allows players to create their own virtual worlds and scenarios. One of the most popular applications of Garry's Mod is the creation of custom animations for characters, ","photo":"https://iili.io/HvEVKLN.webp"},
+  {"title":"helper pack 2","desc":"Popular sandbox game Garry's Mod lets players design their own virtual landscapes and situations. The development of unique character animations is one of Garry's Mod's most often used features.","photo":"https://iili.io/HvEVB1t.jpg"},
+  {"title":"how to use this app 3","desc":", including animatronics from the popular game series, Five Nights at Freddy's (FNAF). In this article, we will explore how FNAF animatronic applications in Garry's Mod have become a fan favorite and have changed the way people play and interact with the game.","photo":"https://iili.io/HvEVo2n.jpg"},
+  {"title":"advice mod 4","desc":"includes animated characters from the well-known video game franchise Five Nights at Freddy's (FNAF). We'll look at how FNAF animatronic applications in Garry's Mod have become a hit with players and altered how they play and interact with the game in this article.","photo":"https://iili.io/HvEVqBI.jpg"},
+  {"title":"tips pack 5","desc":"FNAF is a horror game series developed by Scott Cawthon that has gained a massive following since its release in 2014. The game revolves around a group of animatronic characters who become hostile at night and try to kill the player,","photo":"https://iili.io/HvEVCrX.webp"},
+  {"title":"advance mod 6","desc":"With its debut in 2014, Scott Cawthon's FNAF horror game series has amassed a sizable fan base. The animatronic figures in the game turn hostile at night and attempt to kill the player.","photo":"https://iili.io/HvEVzkG.jpg"},
+  {"title":"helper pack 7","desc":"who takes on the role of a night guard at a pizza restaurant. The game's popularity has spawned a whole community of fans who create fan art, cosplay, and fan games inspired by the original series.","photo":"https://iili.io/HvEVx7s.jpg"},
+  {"title":"how to use this app 8","desc":"who assumes the position of night guard at a pizzeria. Due to the game's success, a large community of fans has emerged that produce fan games, cosplay, and fan art that are based on the original series.","photo":"https://iili.io/HvEVIpf.jpg"}
 
    ]
  
